@@ -46,9 +46,8 @@
     padding: 8px 20px;
     cursor: pointer;
     font-weight: bold;
-    
-    /* ejercicio 3 */
 }
+/* ejercicio 3 */
 .center-page {
     display: flex;
     justify-content: center;
@@ -63,9 +62,8 @@
     border-radius: 8px;
     max-width: 400px;
     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-    
-    /* ejercicio 4  */
 }
+/* ejercicio 4  */
 .gallery-container {
     display: flex;
     flex-wrap: wrap;
@@ -79,8 +77,8 @@
     object-fit: cover;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    /* ejercicio 5 */
 }
+ /* ejercicio 5 */
 .layout-5 {
     display: flex;
     flex-direction: column;
@@ -91,8 +89,8 @@
     padding: 20px;
     text-align: center;
     font-weight: bold;
-    /* ejercicio 6 */
 }
+/* ejercicio 6 */
 .main-content {
     display: flex;
     flex: 1;
@@ -167,8 +165,9 @@ body {
     margin: 0;
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
-    /* ejercicio 7 */
+    
 }
+/* ejercicio 7 */
 .page-wrapper {
     max-width: 1000px;
     margin: 0 auto;
