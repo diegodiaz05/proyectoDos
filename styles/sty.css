@@ -79,6 +79,7 @@
     object-fit: cover;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    /* ejercicio 5 */
 }
 .layout-5 {
     display: flex;
@@ -90,6 +91,7 @@
     padding: 20px;
     text-align: center;
     font-weight: bold;
+    /* ejercicio 6 */
 }
 .main-content {
     display: flex;
@@ -165,6 +167,7 @@ body {
     margin: 0;
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
+    /* ejercicio 7 */
 }
 .page-wrapper {
     max-width: 1000px;
