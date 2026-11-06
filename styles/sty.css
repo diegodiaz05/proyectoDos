@@ -105,7 +105,7 @@
     padding: 20px;
 }
 .main-content article {
-    flex: 2; /* Doble de ancho que el resto de columnas[cite: 43] */
+    flex: 2;
     background-color: #636e72;
     color: white;
     padding: 20px;
@@ -214,12 +214,12 @@ body {
     padding: 20px;
 }
 .sidebar {
-    flex: 30%; /* 30% del ancho */
+    flex: 30%; 
     background-color: #ecf0f1;
     padding: 15px;
 }
 .blog-main {
-    flex: 70%; /* 70% del ancho */
+    flex: 70%; 
     display: flex;
     flex-direction: column;
     gap: 20px;
@@ -244,11 +244,11 @@ body {
     background-color: #bdc3c7;
     text-align: center;
     padding: 15px;
-    margin-top: auto; /* Empuja el footer siempre al fondo */
+    margin-top: auto; 
 }
 footer {
     text-align: center;
     padding: 20px;
-    background-color: #f1f1f1; /* O el color que combine con tu diseño */
+    background-color: #f1f1f1; 
     font-size: 14px;
 }
